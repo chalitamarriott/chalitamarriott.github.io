@@ -12,15 +12,6 @@ body{
 	background-color:#0d1721;
 }
 
-.art {
-    transition:transform 0.25s ease;
-}
-
-.art:hover {
-    -webkit-transform:scale(1.5); /* or some other value */
-    transform:scale(1.5);
-}
-
 // Some Style Variables
 $primary-color: #36465f;
 $secondary-color: #464646;
