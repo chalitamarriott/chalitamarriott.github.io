@@ -1,7 +1,7 @@
 ---
 layout : post
 title : "Custom Pin Buttons (2'')"
-imageurl : "https://thedarkerarts.github.io/img/CustomPin1.jpeg"
+imageUrl : "https://thedarkerarts.github.io/img/CustomPin1.jpeg"
 ---
 
 <div class="col-xs-12 col-sm-12 col-md-12">
