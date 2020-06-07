@@ -31,11 +31,12 @@ excerpt: This website is my art portfolio feel free to browse and use the contac
 	<div class="col-xs-12 col-sm-12 col-md-12">
 		<center>
 			<h2 class="animate__animated animate__pulse" style="color:#437F97;">Product Of My Art</h2>
+			<h5 class="animate__animated animate__pulse" style="color:#437F97;">To order any of these items please contact me via the contact me page.</h5>
 		</center>
 	</div>
 </div>
 <div class="row">
 {% for post in site.posts %}
-<div class="col-xs-6 col-sm-3 col-md-3"><center><a href="{{post.url}}"><img class="art animate__animated animate__flipInX" style="width:100%;" src="{{post.imageUrl}}"></a><h5 style="color:#437F97;">{{post.title}}</h5></center></div>
+<div class="col-xs-6 col-sm-3 col-md-3"><center><img class="art animate__animated animate__flipInX" style="width:100%;" src="{{post.imageUrl}}"><h5 style="color:#437F97;">{{post.title}}</h5></center></div>
 {% endfor %}
 </div>

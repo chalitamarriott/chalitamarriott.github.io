@@ -1,12 +1,5 @@
 ---
 layout : post
-title : "Custom Pin Buttons (2'')"
+title : "Large Framed Fish Photo"
 imageUrl : "https://thedarkerarts.github.io/img/LargeFish.jpg"
 ---
-
-<div class="col-xs-12 col-sm-12 col-md-12">
-	<center>
-		<h2>Custom Pin Buttons (2'')</h2>
-		<h4>The Female Figure</h4>
-	</center>
-</div>
