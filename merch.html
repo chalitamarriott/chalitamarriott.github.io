@@ -6,6 +6,14 @@ excerpt: This website is my art portfolio feel free to browse and use the contac
 ---
 <!-- fulltitle: This overrides the default page title, which is "{{page.tite}} | {{site.title}}" -->
 <!-- excerpt: If this isn't set, it'll pull your {{site.tagline}} for meta description-->
+<br>
+<div class="row">
+	{% for post in site.posts %}
+	  	<div class="col-xs-12 col-sm-6 col-md-4">
+	  		<center><h3>Merch</h3><p>To Order Any Of The Merch Below Use THe Contact Me Page And Let Me Know What You Would Like To Buy.</p></center>
+	  	</div>
+</div>
+<br>
 <div class="row">
 	{% for post in site.posts %}
 	  	<div class="col-xs-12 col-sm-6 col-md-4"><center><img class="art animate__animated animate__flipInX" style="border-radius: 20px; width:100%;" src="{{post.imageUrl}}">
