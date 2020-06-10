@@ -8,16 +8,16 @@ excerpt: This website is my art portfolio feel free to browse and use the contac
 <!-- excerpt: If this isn't set, it'll pull your {{site.tagline}} for meta description-->
 <br>
 <div class="row">
-	  	<div class="col-xs-12 col-sm-6 col-md-4">
-	  		<center><h3>Merch</h3><p>To Order Any Of The Merch Below Use THe Contact Me Page And Let Me Know What You Would Like To Buy.</p></center>
+	  	<div class="col-xs-12 col-sm-12 col-md-12">
+	  		<center><h3 style="color:white;">Merch</h3><p style="color:white;">To Order Any Of The Merch Below Use The Contact Me Page And Let Me Know What You Would Like To Buy.</p></center>
 	  	</div>
 </div>
 <br>
 <div class="row">
 	{% for post in site.posts %}
 	  	<div class="col-xs-12 col-sm-6 col-md-4"><center><img class="art animate__animated animate__flipInX" style="border-radius: 20px; width:100%;" src="{{post.imageUrl}}">
-	  		<h4>{{post.title}}</h4>
-	  		<h6>{{post.price}}</h6>
+	  		<h4 style="color:white;">{{post.title}}</h4>
+	  		<h6 style="color:white;">{{post.price}}</h6>
 	  	</a></center></div>
 	  	{% endfor %}
 </div>
