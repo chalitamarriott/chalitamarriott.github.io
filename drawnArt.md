@@ -9,7 +9,7 @@ excerpt: This website is my art portfolio feel free to browse and use the contac
 <div class="container-fluid">
 <div class="row">
 {% for post in site.posts %}
-  <div class="col-xs-12 col-sm-6 col-md-4">
+  <div class="col-xs-12 col-sm-8 col-md-8">
     <center>
       <img class="art animate__animated animate__flipInX" style="border-radius: 20px; width:100%;" src="img/{{post.imageUrl}}.jpg">
     </center>
