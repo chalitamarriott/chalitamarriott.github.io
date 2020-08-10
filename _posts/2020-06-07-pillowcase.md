@@ -1,5 +1,5 @@
 ---
 layout : post
 type: drawn
-imageUrl : "1.jpg"
+imageUrl : "1"
 ---
