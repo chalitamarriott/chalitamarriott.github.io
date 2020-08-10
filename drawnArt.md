@@ -6,8 +6,9 @@ excerpt: This website is my art portfolio feel free to browse and use the contac
 ---
 <!-- fulltitle: This overrides the default page title, which is "{{page.tite}} | {{site.title}}" -->
 <!-- excerpt: If this isn't set, it'll pull your {{site.tagline}} for meta description-->
-{% for post in site.posts %}
+<div class="container-fluid">
 <div class="row">
+{% for post in site.posts %}
 	<div class="col-xs-12 col-sm-6 col-md-4"><center><img class="art animate__animated animate__flipInX" style="border-radius: 20px; width:100%;" src="img/13.jpg"></a></center></div>
   	<div class="col-xs-12 col-sm-6 col-md-4"><center><img class="art animate__animated animate__flipInX" style="border-radius: 20px; width:100%;" src="img/5.jpg"></a></center></div>
   	<div class="col-xs-12 col-sm-6 col-md-4"><center><img class="art animate__animated animate__flipInX" style="border-radius: 20px; width:100%;" src="img/6.jpg"></a></center></div>
@@ -17,5 +18,6 @@ excerpt: This website is my art portfolio feel free to browse and use the contac
   	<div class="col-xs-12 col-sm-6 col-md-4"><center><img class="art animate__animated animate__flipInX" style="border-radius: 20px; width:100%;" src="img/8.jpg"></a></center></div>
   	<div class="col-xs-12 col-sm-6 col-md-4"><center><img class="art animate__animated animate__flipInX" style="border-radius: 20px; width:100%;" src="img/9.jpg"></a></center></div>
   	<div class="col-xs-12 col-sm-6 col-md-4"><center><img class="art animate__animated animate__flipInX" style="border-radius: 20px; width:100%;" src="img/10.jpg"></a></center></div>
-</div>
 {% endfor %}
+</div>
+</div>
