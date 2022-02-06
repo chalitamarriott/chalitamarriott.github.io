@@ -41,7 +41,7 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"/>
 	<!-- CSS & fonts -->
 	<script src="https://ajax.googleapis.com/ajax/libs/d3js/5.15.1/d3.min.js"></script>
-	<link rel="stylesheet" href="https://chalitamarriott.github.io/css/app.css">
+	<link rel="stylesheet" href="https://thedarkerarts.github.io/css/app.css">
 	<link href="css/lightbox.css" rel="stylesheet" />
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 </head>
@@ -50,15 +50,15 @@
 	<div class="row">
 		<div class="col-sm-12 col-md-12 col-lg-12	col-xl-12">
 			<center>
-    		<a href="https://chalitamarriott.github.io/">
-    			<img style="margin:20px;width:200px;" class="animate__animated animate__pulse" src="https://chalitamarriott.github.io/img/newlogo.png">
+    		<a href="https://thedarkerarts.github.io/">
+    			<img style="margin:20px;width:200px;" class="animate__animated animate__pulse" src="https://thedarkerarts.github.io/img/newlogo.png">
     		</a>
     		<br>
     		<h1>Chalita Marriott</h1>
     		<h3>Art Portfolio</h3>
     		<br>
-				<a href="index.html"><img style="width:50px;"src="https://chalitamarriott.github.io/img/icons/home.png"></a>
-				<a href="https://www.instagram.com/the_darker_arts/"><img style="width:50px;"src="https://chalitamarriott.github.io/img/icons/instagram.png"></a>
+				<a href="index.html"><img style="width:50px;"src="https://thedarkerarts.github.io/img/icons/home.png"></a>
+				<a href="https://www.instagram.com/the_darker_arts/"><img style="width:50px;"src="https://thedarkerarts.github.io/img/icons/instagram.png"></a>
 			</center>
 		</div>
 		<br>	
